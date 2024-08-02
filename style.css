@@ -1,0 +1,159 @@
+
+.section-one{
+    background-color: black;
+    color: white;
+    padding: 30px;
+    text-align: center;
+    margin: none;
+   
+}
+.section-two{
+    width: 200px;
+    height: 400px;
+    background-color: white;
+    border: solid black 1px;
+    margin-left: 85px;
+    margin-top: 10px;
+    display: inline-block;
+}
+   .section-two__title{
+    text-align: center;
+    margin-top: 45px;
+    margin-bottom: 0;
+   } 
+   .section-two__desc{
+    text-align: center;
+    margin-top: 0;
+   }
+   .section-two__but{
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 8px;
+    margin-left: 50px;
+    margin-bottom: 0px;
+   }
+   .section-two__pro{
+    width: 200px;
+    height: 250px;
+    
+
+   }
+
+   .section-three{
+    width: 200px;
+    height: 400px;
+    background-color: white;
+    border: solid black 1px;
+    margin-left: 5px;
+    margin-top: 10px;
+    display: inline-block;
+
+}
+   .section-three__title{
+    text-align: center;
+    margin-top: 45px;
+    margin-bottom: 0;
+   } 
+   .section-three__desc{
+    text-align: center;
+    margin-top: 0;
+   }
+   .section-three__but{
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 8px;
+    margin-left: 50px;
+    margin-bottom: 0px;
+   }
+   .section-three__pro{
+    width: 200px;
+    height: 250px;
+    
+
+   }
+   .section-four{
+    width: 200px;
+    height: 400px;
+    background-color: white;
+    border: solid black 1px;
+    margin-left: 5px;
+    margin-top: 10px;
+    display: inline-block;
+
+}
+   .section-four__title{
+    text-align: center;
+    margin-top: 45px;
+    margin-bottom: 0;
+   } 
+   .section-four__desc{
+    text-align: center;
+    margin-top: 0;
+   }
+   .section-four__but{
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 8px;
+    margin-left: 50px;
+    margin-bottom: 0px;
+   }
+   .section-four__pro{
+    width: 200px;
+    height: 250px;
+    
+
+   }
+   .section-five{
+    width: 200px;
+    height: 400px;
+    background-color: white;
+    border: solid black 1px;
+    margin-left: 5px;
+    margin-top: 10px;
+    display: inline-block;
+
+}
+   .section-five__title{
+    text-align: center;
+    margin-top: 45px;
+    margin-bottom: 0;
+   } 
+   .section-five__desc{
+    text-align: center;
+    margin-top: 0;
+   }
+   .section-five__but{
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 8px;
+    margin-left: 50px;
+    margin-bottom: 0px;
+   }
+   .section-five__pro{
+    width: 200px;
+    height: 250px;
+    
+
+   }
+   .section-form{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-bottom: 10px;
+   }
+   .section-form__but{
+    background-color: rgb(245, 245, 0);
+    color: black;
+    border: none;
+    padding: 5px;
+    padding-left: 200px;
+    padding-right: 200px;
+
+    
+   }
+
+
